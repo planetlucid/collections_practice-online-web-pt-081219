@@ -10,5 +10,4 @@ end
 #
 def sort_array_char_count(strings)
   sort_array_char_count.sort 
-
 end
